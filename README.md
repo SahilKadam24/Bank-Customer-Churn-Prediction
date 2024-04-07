@@ -1,2 +1,2 @@
 # Bank-Customer-Churn-Prediction
-I have built a robust model for detecting fraudulent credit card transactions
+I have built a robust model for predicting bank customer churn
